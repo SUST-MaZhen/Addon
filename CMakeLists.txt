@@ -3,7 +3,7 @@ SET( TARGETFILENAME "addon" )
 PROJECT( ${TARGETFILENAME} ) 
 
 # CMake 最低版本设置
-cmake_minimum_required(VERSION 3.8)
+cmake_minimum_required(VERSION 3.7)
    
 # node library 
 SET(NODE_LIBRARIES node.lib) 
